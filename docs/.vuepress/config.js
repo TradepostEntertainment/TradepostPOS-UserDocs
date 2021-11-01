@@ -17,6 +17,10 @@ module.exports = {
                 text: 'User Guide',
                 link: '/userguide/',
             },
+            {
+                text: 'Change Log',
+                link: '/changelog/',
+            }
         ],
 
 
@@ -26,8 +30,14 @@ module.exports = {
                 {
                     text: 'User Guide',
                     children: ['/userguide/README.md', '/userguide/getting-started.md']
-                }
+                },
             ],
+            '/changelog': [
+                {
+                    text: 'Change Log',
+                    children: ['/changelog/recent-changes.md']
+                }
+            ]
         }
 
      
