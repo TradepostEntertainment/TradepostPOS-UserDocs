@@ -5,10 +5,7 @@ title: TradepostPOS
 actions:
   - text: User Guide
     link: /userguide/
-    type: primary
-  - text: Developer Guide
-    link: /devguide/
-    type: secoondary
+    type: secondary
 features:
   - title: Powerful Point of Sale
     details: TradepostPOS makes it easier for you to grow your business, so you can focus on what is important.

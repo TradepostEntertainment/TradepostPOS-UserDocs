@@ -12,10 +12,7 @@ module.exports = {
         logo: 'https://vuejs.org/images/logo.png',
 
         navbar: [
-            {
-                text: 'Developer Guide',
-                link: '/devguide/'
-            },
+         
             {
                 text: 'User Guide',
                 link: '/userguide/',
@@ -24,12 +21,7 @@ module.exports = {
 
 
         sidebar: {
-            '/devguide/': [
-                {
-                    text: 'Developer Guide',
-                    children: ['/devguide/README.md', '/devguide/getting-started.md']
-                }
-            ],
+           
             '/userguide': [
                 {
                     text: 'User Guide',
