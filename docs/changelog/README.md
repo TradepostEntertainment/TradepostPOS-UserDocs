@@ -1,6 +1,16 @@
 # Change Log
 
-Welcome to the change log.
+TradepostPOS Change Log.
+
+## Upcoming Changes
+
+### 1.0.0-alpha.2
+
+### Bug Fixes
+*
+*
+
+### Features
 
 
 
