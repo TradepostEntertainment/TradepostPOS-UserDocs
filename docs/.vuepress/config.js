@@ -35,7 +35,7 @@ module.exports = {
             '/changelog': [
                 {
                     text: 'Change Log',
-                    children: ['/changelog/README.md','/changelog/recent-changes.md']
+                    children: ['/changelog/README.md', '/changelog/upcoming-changes.md', ]
                 }
             ]
         }
