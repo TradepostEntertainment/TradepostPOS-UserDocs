@@ -2,6 +2,14 @@
 
 Recent changes made to TradepostPOS.
 
+## 1.0.0-alpha.3
+
+### Bug Fixes
+* Removed unfinished pages from navigation.
+
+### Features
+* Redesign & minor optimization update to 'Client Settings' page.
+
 ## 1.0.0-alpha.2
 
 ### Bug Fixes
